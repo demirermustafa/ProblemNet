@@ -1,0 +1,16 @@
+image: Visual Studio 2017
+version: 1.0.{build}
+build_script:
+- ps: >-
+    dotnet build ProblemNet/ProblemNet.csproj
+after_test:
+- ps: >-
+    dotnet pack ProblemNet/ProblemNet.csproj -c Release --include-symbols
+artifacts:
+- path: ProblemNet/bin/Release/*.nupkg
+  name: ProblemNet
+deploy:
+- provider: NuGet
+  api_key:
+    secure: R8G4Xks6wlJ6LCQ9Msj51rWrH3/Tn1dfdbm1FR22kUBTPsSSQaybSEZCf7PMDJU/
+  skip_symbols: true

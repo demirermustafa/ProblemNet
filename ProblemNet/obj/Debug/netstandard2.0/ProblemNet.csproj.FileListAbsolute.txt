@@ -1,0 +1,9 @@
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\bin\Debug\netstandard2.0\ProblemNet.deps.json
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\bin\Debug\netstandard2.0\ProblemNet.dll
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\bin\Debug\netstandard2.0\ProblemNet.pdb
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\obj\Debug\netstandard2.0\ProblemNet.csprojAssemblyReference.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\obj\Debug\netstandard2.0\ProblemNet.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\obj\Debug\netstandard2.0\ProblemNet.AssemblyInfoInputs.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\obj\Debug\netstandard2.0\ProblemNet.AssemblyInfo.cs
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\obj\Debug\netstandard2.0\ProblemNet.dll
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemNet\obj\Debug\netstandard2.0\ProblemNet.pdb

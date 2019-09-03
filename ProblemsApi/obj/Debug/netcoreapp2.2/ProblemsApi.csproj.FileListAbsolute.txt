@@ -1,0 +1,17 @@
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemsApi.deps.json
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemsApi.runtimeconfig.json
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemsApi.runtimeconfig.dev.json
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemsApi.dll
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemsApi.pdb
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemNet.dll
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\bin\Debug\netcoreapp2.2\ProblemNet.pdb
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.csprojAssemblyReference.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.RazorAssemblyInfo.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.RazorAssemblyInfo.cs
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.AssemblyInfoInputs.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.AssemblyInfo.cs
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.RazorTargetAssemblyInfo.cache
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.csproj.CopyComplete
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.dll
+C:\Users\mustafa.demirer\Desktop\Exception handling\last\ProblemNet\ProblemsApi\obj\Debug\netcoreapp2.2\ProblemsApi.pdb

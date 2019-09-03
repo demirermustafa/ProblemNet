@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mustafa.demirer\\Desktop\\Exception handling\\last\\ProblemNet\\ProblemNet\\ProblemNet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mustafa.demirer\\Desktop\\Exception handling\\last\\ProblemNet\\ProblemNet\\ProblemNet.csproj": {
+      "version": "0.0.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mustafa.demirer\\Desktop\\Exception handling\\last\\ProblemNet\\ProblemNet\\ProblemNet.csproj",
+        "projectName": "ProblemNet",
+        "projectPath": "C:\\Users\\mustafa.demirer\\Desktop\\Exception handling\\last\\ProblemNet\\ProblemNet\\ProblemNet.csproj",
+        "packagesPath": "C:\\Users\\mustafa.demirer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa.demirer\\Desktop\\Exception handling\\last\\ProblemNet\\ProblemNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafa.demirer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
