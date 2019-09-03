@@ -8,7 +8,7 @@ namespace ProblemNet.Extensions
 {
     public static class MvcBuilderExtensions
     {
-        public static IMvcBuilder UseProblemDetailsApiBehavior(this IMvcBuilder builder)
+        public static IMvcBuilder UseProblemDetailsInvalidModelStateResponseFactory(this IMvcBuilder builder)
         {
             builder.Services.Configure<ApiBehaviorOptions>(options =>
                                                                {

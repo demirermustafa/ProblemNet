@@ -31,7 +31,7 @@ namespace ProblemsApi
             services.AddProblemDetails(cfg => { cfg.DefaultTypeBaseUri = "https://userservice.com/problemdetails/"; });
 
             services.AddMvc().
-                     UseProblemDetailsApiBehavior().
+                     UseProblemDetailsInvalidModelStateResponseFactory().
                      SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
                     .AddJsonOptions(options =>
                                         {

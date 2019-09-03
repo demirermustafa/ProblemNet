@@ -54,7 +54,8 @@ namespace ProblemsApi.Controllers
         [ProducesResponseType(typeof(ProblemDetails), 404)]
         public ActionResult<string> ThrowCustomValidationSingleField()
         {
-            throw new ValidationProblemDetailsException("Email", "Email address length must be greater than 5 characters", "Email address must be email format")
+            throw new ValidationProblemDetailsException("Email", "Email address length must be greater than 5 characters",
+                                                        "Email address must be email format")
                   {
                           Detail = "Error while creating account. Please see errors for detail.",
                           Status = (int)HttpStatusCode.BadRequest,
@@ -83,10 +84,10 @@ namespace ProblemsApi.Controllers
         [HttpPost("model-state-validation")]
         public IActionResult CreateUser([FromBody] UserCreateRequest request)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
             return Created("", request);
         }

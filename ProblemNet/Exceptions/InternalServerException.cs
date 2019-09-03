@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 using Microsoft.AspNetCore.Http;
 
 using Newtonsoft.Json;
@@ -18,11 +20,11 @@ namespace ProblemNet.Exceptions
         private InternalServerException(Exception error, int statusCode, bool displayExceptionDetail = false)
                 : base(statusCode)
         {
-            Error = displayExceptionDetail ? error : null;
+            Exception = displayExceptionDetail ? error : null ;
             Detail = "An error occurred while processing your request";
         }
 
-        [JsonProperty(NullValueHandling = NullValueHandling.Ignore, PropertyName = "errors")]
-        public Exception Error { get; }
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore, PropertyName = "exception")]
+        public Exception Exception { get; }
     }
 }
