@@ -4,8 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>ProblemNet</PackageId>
     <PackageVersion>0.0.6</PackageVersion>
-    <Authors>Mustafa DEMİRER, Ömer Cinbat</Authors>
-    <Description>A middleware to handle exceptions according to standtards defined in https://tools.ietf.org/html/rfc7807 for HTTP Apis.</Description>
+    <Authors>Mustafa DEMİRER</Authors>
+    <Description>A middleware to handle exceptions according to standards defined in https://tools.ietf.org/html/rfc7807 for HTTP Apis.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes></PackageReleaseNotes>
     <Copyright></Copyright>
