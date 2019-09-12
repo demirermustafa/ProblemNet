@@ -67,16 +67,16 @@ namespace ProblemNet
             {
                 if (problemDetailsException.Status < (int)HttpStatusCode.InternalServerError && problemDetailsException.Status >= (int)HttpStatusCode.BadRequest)
                 {
-                    _logger.LogInformation(new EventId(exception.HResult), exception, exception.Message);
+                    _logger.LogInformation("{@ProblemDetails}", problemDetailsException.ProblemDetails());
                 }
                 else
                 {
-                    _logger.LogError(new EventId(exception.HResult), exception, exception.Message);
+                    _logger.LogError(exception, exception.Message);
                 }
             }
             else
             {
-                _logger.LogError(new EventId(exception.HResult), exception, exception.Message);
+                _logger.LogError(exception, exception.Message);
             }
         }
     }
