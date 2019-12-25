@@ -71,7 +71,7 @@ namespace ProblemNet
                 }
                 else
                 {
-                    _logger.LogError(exception, exception.Message, problemDetailsException.ProblemDetails());
+                    _logger.LogError(exception, "{@ProblemDetails}", problemDetailsException.ProblemDetails());
                 }
             }
             else

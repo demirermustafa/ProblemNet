@@ -88,6 +88,11 @@ namespace ProblemNet.Exceptions
             stringBuilder.AppendLine($"Detail  : {Detail}");
             stringBuilder.AppendLine($"Instance: {Instance}");
 
+            foreach (var extension in Extensions)
+            {
+                stringBuilder.AppendLine($"{extension.Key}: {extension.Value}");
+            }
+
             return stringBuilder.ToString();
         }
     }
