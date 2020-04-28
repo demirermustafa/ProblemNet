@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProblemsApi.Controllers
+namespace Sample3_1
 {
     public class UserCreateRequest
     {

@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ProblemsApi": {
+    "Sample2_2": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

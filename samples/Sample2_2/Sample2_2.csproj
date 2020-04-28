@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProblemNet\ProblemNet.csproj" />
+    <ProjectReference Include="..\..\ProblemNet\ProblemNet.csproj" />
   </ItemGroup>
 
 </Project>

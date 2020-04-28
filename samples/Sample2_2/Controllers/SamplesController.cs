@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using ProblemNet.Exceptions;
 using ProblemNet.Problems;
 
-namespace ProblemsApi.Controllers
+namespace Sample2_2.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace ProblemsApi
+namespace Sample3_1
 {
     public class UserNotFoundProblem : ProblemDetails
     {
